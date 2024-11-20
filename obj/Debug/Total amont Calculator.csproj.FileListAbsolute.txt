@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Total amont Calculator\Total amont Calculator\bin\Debug\Total amont Calculator.exe.config
+C:\Users\DELL\source\repos\Total amont Calculator\Total amont Calculator\bin\Debug\Total amont Calculator.exe
+C:\Users\DELL\source\repos\Total amont Calculator\Total amont Calculator\bin\Debug\Total amont Calculator.pdb
+C:\Users\DELL\source\repos\Total amont Calculator\Total amont Calculator\obj\Debug\Total amont Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Total amont Calculator\Total amont Calculator\obj\Debug\Total amont Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Total amont Calculator\Total amont Calculator\obj\Debug\Total amont Calculator.exe
+C:\Users\DELL\source\repos\Total amont Calculator\Total amont Calculator\obj\Debug\Total amont Calculator.pdb
